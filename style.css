@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+h1,
+h2,
+h3 {
+    color: #002a80;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.ad-section {
+    background-color: #e9ecef;
+    padding: 15px;
+    margin-top: 20px;
+}
+
+@media (max-width: 767px) {
+    .ad-section {
+        text-align: center;
+    }
+}
